@@ -1,6 +1,9 @@
 # appbardesign
+First of all to show the project go to lib file. If you want to live so you have just put after github in the link write box and press enter then you show the output.
 
-A new Flutter project.
+
+#  App Details:
+Basically as a beginner try to make appbar design for android apps also add some important button, create custom snackbar to check all the button are work perfectly or not.
 
 ## Getting Started
 
