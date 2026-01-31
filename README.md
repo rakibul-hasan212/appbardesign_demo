@@ -1,5 +1,5 @@
 # appbardesign
-First of all to show the project go to lib file. If you want to live so you have just put after github in the link write box and press enter then you show the output.
+First of all to show the project go to lib file. If you want to live so you have to copy or download this file on your local machine and run.
 
 
 #  App Details:
